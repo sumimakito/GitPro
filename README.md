@@ -2,6 +2,6 @@
 
 Use GitHub Like a Pro
 
-![Demo](_art/demo.gif)
-
-![Options](_art/options.gif)
+|Demo|Options|
+|:-:|:-:|
+|![Demo](_art/demo.gif)|![Options](_art/options.png)|
