@@ -10,7 +10,7 @@
     },
     function(items) {
       if (!items.enabled) return;
-      const proContainer = jQuery("#js-pjax-container > div > div.h-card.col-3.float-left.pr-3 > div.border-top.border-gray-light.py-3 > div");
+      const proContainer = jQuery("#js-pjax-container > div > div.h-card.col-3.float-left.pr-3 > div.border-top.border-gray-light.py-3");
       const proIcon = jQuery(proContainer).find("svg");
       const proBadge = jQuery(proContainer).find("span");
 
